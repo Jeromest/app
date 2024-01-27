@@ -1,7 +1,6 @@
 package com.example.app.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.example.app.model.entity.ArticleEntity
 import com.example.app.model.entity.VideoEntity
 
 class VideoViewModel : ViewModel() {
